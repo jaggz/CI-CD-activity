@@ -1,6 +1,8 @@
 import type { Response } from 'express';
 import type { IGame } from '../models/Game.js';
 
+
+
 // Set maximum allowed bad guesses
 const MAX_BAD_GUESSES = 9;
 
